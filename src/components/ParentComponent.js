@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
-import ChildComponent from '../components/Childcomponent.js';
-import DisplayComponent from '../components/Displaycomponent.js';
+import ChildComponent from '../components/ChildComponent.js';
+import DisplayComponent from '../components/DisplayComponent.js';
 
 class ParentComponent extends Component {
   constructor(props) {
